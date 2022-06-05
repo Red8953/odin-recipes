@@ -1,0 +1,20 @@
+html {
+    background-color: rgba(129, 187, 238, 0.839);
+}
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#baking-image {
+    height: auto;
+    width: 500px;
+}
+
+h1,
+h2 {
+    background-color: rgba(43, 151, 246, 0.884);
+}
+
+button {
+    background-color: rgba(43, 151, 246, 0.884);
+    font-size: large;
+}
